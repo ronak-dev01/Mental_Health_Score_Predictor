@@ -1,7 +1,6 @@
-Python: 3.12.x
-scikit-learn: 1.6.1
-pandas: 2.2.x
-numpy: 2.x
-joblib: 1.4.x
-fastapi: 0.111.x
-uvicorn: 0.23.x
+fastapi==0.141.1
+uvicorn==0.52.4
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.6.1
+joblib==1.6.0
