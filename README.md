@@ -34,7 +34,7 @@ The application is deployed and provides an interactive web interface where user
 
 ## 📸 Application Preview
 
-![Mental Health Score Predictor — Application Preview](assets/app-preview.svg)
+![Mental Health Score Predictor — Application Preview](preview/image.png)
 
 *Interactive student wellness prediction interface.*
 
